@@ -1,6 +1,0 @@
-@DevLog_HostAddress = http://localhost:5161
-
-GET {{DevLog_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
